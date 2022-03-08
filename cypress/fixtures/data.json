@@ -1,0 +1,14 @@
+{
+  "name_first": "default",
+  "name_last":"user",
+  "email": "default_user1@cypress.io",
+  "address": "13 cypress way",
+  "city": "cypress",
+  "postcode":"cy12cy",
+  "phone_number": "07778889990",
+  "credit_card":"4111111111111111",
+  "credit_card_name":"d user",
+  "credit_card_expiry":"1122",
+  "credit_card_Cvv":"123",
+  "product_name":"Creamer"
+}
